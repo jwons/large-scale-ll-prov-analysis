@@ -1,4 +1,4 @@
-# Analysis of Large-Scale Collection of Language-Level Provenance'
+# Analysis of Large-Scale Collection of Language-Level Provenance
 
 This directory contains the analysis of ~14,000 language-level provenance graphs collected using the `rdtLite` variant of the [RDataTracker](https://www.github.com/End-to-end-provenance/RDataTracker) collection tool from R scripts hosted on Harvard's Dataverse as part of the [RaaS](https://www.github.com/jwons/raas) evaluation. 
 

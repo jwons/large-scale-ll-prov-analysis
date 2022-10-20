@@ -8,4 +8,4 @@ RUN git clone https://github.com/jwons/MultilingualProvenanceDebugger \
 
 # COPY . /home/jovyan/work
 
-RUN pip install timebudget ray 
+RUN pip install ray 
