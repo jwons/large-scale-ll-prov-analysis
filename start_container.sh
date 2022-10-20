@@ -8,4 +8,5 @@ docker run \
   -p 8888:8888 \
   --name prov-analysis \
   --mount type=bind,source="$(pwd)",target=/home/jovyan/work \
+  --shm-size=38gb \
   prov-analysis
