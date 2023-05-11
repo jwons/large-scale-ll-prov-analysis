@@ -1,11 +1,12 @@
-# Analysis of Large-Scale Collection of Language-Level Provenance
+# A Large-Scale Collection and Analysis of Language-Level Provenance
 
 This directory contains the analysis of ~14,000 language-level provenance graphs collected using the `rdtLite` variant of the [RDataTracker](https://www.github.com/End-to-end-provenance/RDataTracker) collection tool from R scripts hosted on Harvard's Dataverse as part of the [RaaS](https://www.github.com/jwons/raas) evaluation. 
 
-The raw data is not included in this repository as it is ~100 GB; however, some aggregate data is stored in [`output/prov_table.csv`](output/prov_table.csv). We generated this file using the [`01_generate_aggregate_table.ipynb`](scripts/01_generate_aggregate_table.ipynb) script. A description of the raw data can also be found in markdown in the [`01_generate_aggregate_table.ipynb`](scripts/01_generate_aggregate_table.ipynb) script.
-Since we save the output of this script, users can still execute the next script ([`02_analysis_of_aggregate.ipynb`](scripts/02_analysis_of_aggregate.ipynb)).
+The raw data is not included in this repository as it is ~100 GB; however, some aggregate data is stored as `csv`s in [`output`](output/) and a description of the raw data can also be found in the [`01_generate_aggregate_table.ipynb`](scripts/01_generate_aggregate_table.ipynb) script. We generated the `csv`s from the same script.  
+Even without the raw data you can still execute the next script ([`02_analysis_of_aggregate.ipynb`](scripts/02_analysis_of_aggregate.ipynb)) which operates only on the `csv` files. 
 
-If you have Docker installed you can execute the scripts in this repository by starting a Jupyter Lab session by calling [`start_container.sh`](start_container.sh). **Please be aware of two important facts when doing so:**
+If you have Docker installed you can execute the scripts in this repository by starting a Jupyter Lab session by calling [`start_container.sh`](start_container.sh). **Please be aware of three important facts when doing so:**
+ - I wrote this analysis on a machine with lots of memory, currently in [`start_container.sh`](start_container.sh) I have set the memory usage to 38 gb for the container. If that is too much, you can simply delete the line. In reality, that much memory is only needed for [`01_generate_aggregate_table.ipynb`](scripts/01_generate_aggregate_table.ipynb).
  - **Changes made to the scripts will persist!** The Docker container is used purely for the environment, the root of this directory is mounted within the container meaning any changes persist when the container is closed. 
  - if you don't have the original raw data, you cannot execute [`01_generate_aggregate_table.ipynb`](scripts/01_generate_aggregate_table.ipynb).
  
