@@ -1,0 +1,602 @@
+doi,script_name,num_of_proc_nodes,num_of_data_nodes
+doi:10.7910/DVN/P1X0GV,reshuffles_robustness.R,8,0
+doi:10.7910/DVN/P1X0GV,reshuffles_analysis.R,11,0
+doi:10.7910/DVN/P1X0GV,reshuffles_further_analysis.R,8,0
+doi:10.7910/DVN/HE9H8U,get_adm_data_cancer.R,0,0
+doi:10.7910/DVN/HE9H8U,fig_60_days_after_admission_revision.R,0,0
+doi:10.7910/DVN/MTHVD4,Rep.RenegotiationCox.R,0,0
+doi:10.7910/DVN/QHEBXD,analyses.R,2,0
+doi:10.7910/DVN/QHEBXD,descriptives.R,2,0
+doi:10.7910/DVN/QHEBXD,data.R,2,0
+doi:10.7910/DVN/R9PGXI,title_deeds_analysis.R,0,0
+doi:10.7910/DVN/DZ1MM4,CLT_POQ_AppendixAnalysis-1.R,0,0
+doi:10.7910/DVN/UMG39H,Figures.R,0,0
+doi:10.7910/DVN/84NYFE,LV_wind.R,0,0
+doi:10.7910/DVN/W8TQHB,Rcode_Replication_Appendix.R,0,0
+doi:10.7910/DVN/W8TQHB,Rcode_Replication.R,0,0
+doi:10.7910/DVN/DBJS9M,Replication_code_PLOSone.R,21,0
+doi:10.7910/DVN/TNNSXG,04_east_ramapo_enacted_parity.R,0,0
+doi:10.7910/DVN/TNNSXG,04_19_east_ramapo_enacted_parity.R,0,0
+doi:10.7910/DVN/EAXI4K,2015_08_26_WP1_Analysis.R,0,0
+doi:10.7910/DVN/EAXI4K,2015_08_26_WP1_munge.R,0,0
+doi:10.7910/DVN/VCE7KN,apsr-figures-troop-levels.R,3,0
+doi:10.7910/DVN/VCE7KN,apsr-models-mlogit-20190930.R,3,0
+doi:10.7910/DVN/RZVMJW,main.R,0,0
+doi:10.7910/DVN/YDCL7Z,cwhr_ii.R,0,0
+doi:10.7910/DVN/WA4RTQ,gallup_data_analyses_dma.R,3,0
+doi:10.7910/DVN/GABLSZ,analysis.script.R,17,0
+doi:10.7910/DVN/QPQUW5,Reher_BJPolS_2020_generate-dyad-data.R,3,0
+doi:10.7910/DVN/ZPDOYT,replication-code-domestic-pol-ndc-amb-v4.R,0,0
+doi:10.7910/DVN/S4IZ8K,Validation_Languages_Combined.R,2,0
+doi:10.7910/DVN/S4IZ8K,generate_figures_tables.R,0,0
+doi:10.7910/DVN/GKVNDS,Analyses_appendix.R,0,0
+doi:10.7910/DVN/OBGENQ,Weeks_2022_Replication_Code.R,0,0
+doi:10.7910/DVN/HCNMW4,script ERG complete.R,0,0
+doi:10.7910/DVN/O7BPYZ,paper.R,2,0
+doi:10.7910/DVN/OLXCDX,Chapter 5-Principal Components Analysis (R Script).R,0,0
+doi:10.7910/DVN/PLXNE3,Replication_GridMinigrid.R,0,0
+doi:10.7910/DVN/EE7UJZ,dataappendix.R,0,0
+doi:10.7910/DVN/PNDP4V,r_code_march2019.R,0,0
+doi:10.7910/DVN/5LYJNZ,Gov 2001 Final Paper Regressions_updated.R,0,0
+doi:10.7910/DVN/ZCRAS2,table4 functions.R,0,0
+doi:10.7910/DVN/AGRX5U,2-figure  2.R,5,0
+doi:10.7910/DVN/AGRX5U,1-figure 1.R,9,0
+doi:10.7910/DVN/AGRX5U,10-appendix table 5.R,6,0
+doi:10.7910/DVN/AGRX5U,14-appendix table 10.R,6,0
+doi:10.7910/DVN/AGRX5U,4-figure 4.R,7,0
+doi:10.7910/DVN/AGRX5U,16-appendix figure 10.R,8,0
+doi:10.7910/DVN/896GAD,Retweets-by-topic-reg.R,0,0
+doi:10.7910/DVN/MA0OYO,ReplicationCode_PersuadingWhiteEvangelicals.R,0,0
+doi:10.7910/DVN/S0JYQM,4_Prepare_replication_data_Do_Not_Run.R,0,0
+doi:10.7910/DVN/27864,replication tab1 tab3.R,0,0
+doi:10.7910/DVN/27864,replication appendix.R,0,0
+doi:10.7910/DVN/JGJI6I,codigo_analise.R,0,0
+doi:10.7910/DVN/PBHNHR,Partisan Types 2.R,3,0
+doi:10.7910/DVN/JGGUZE,JEPSreplication.R,0,0
+doi:10.7910/DVN/N9TTIA,3. Forecasting -- GLMs.R,6,0
+doi:10.7910/DVN/N9TTIA,4. Forecasting -- GAMs.R,6,0
+doi:10.7910/DVN/MLTIMN,COVID_dictionary.R,0,0
+doi:10.7910/DVN/MLTIMN,MFD.R,0,0
+doi:10.7910/DVN/MLTIMN,mind_perception_Dictionary.R,0,0
+doi:10.7910/DVN/DKXD2X,make_figures.R,0,0
+doi:10.7910/DVN/F9D6TH,3_tables.R,2,0
+doi:10.7910/DVN/CGHY3L,02_analysis_main_model_unlikely_options.R,3,0
+doi:10.7910/DVN/CGHY3L,01_sub1_process_results.R,3,0
+doi:10.7910/DVN/KVTPVX,Baseline AMCEs ALL SURVEYS.R,0,0
+doi:10.7910/DVN/KVTPVX,Robustness Checks SSI.R,0,0
+doi:10.7910/DVN/KVTPVX,Marginal Means ALL SURVEYS.R,0,0
+doi:10.7910/DVN/TA4DUW,wood_pb2022_study1.R,0,0
+doi:10.7910/DVN/YTPJ1N,sim_speeches.R,0,0
+doi:10.7910/DVN/KFIKH8,cityelections-table-9a-11072016.R,0,0
+doi:10.7910/DVN/FBNIKO,Supp5_NutrientRequirementsDataManagement.R,0,0
+doi:10.7910/DVN/W2NSLS,tableA1.R,0,0
+doi:10.7910/DVN/TRR0DK,tte_TablesGraphs.R,0,0
+doi:10.7910/DVN/DCTH7N,FinalTables.R,0,0
+doi:10.7910/DVN/SRWSDP,00_RUN THIS FILE.R,2,0
+doi:10.7910/DVN/SRWSDP,00_README.R,0,0
+doi:10.7910/DVN/VXVBNI,03_sensitivity.R,0,0
+doi:10.7910/DVN/JWTRSC,TableA1.R,0,0
+doi:10.7910/DVN/JWTRSC,Table2.R,0,0
+doi:10.7910/DVN/JWTRSC,Table1.R,0,0
+doi:10.7910/DVN/URSNLH,DonnellyPopElechesReplication.R,0,0
+doi:10.7910/DVN/WR97GH,replication_script.R,0,0
+doi:10.7910/DVN/OWUY5F,Data Analysis Code.R,0,0
+doi:10.7910/DVN/35IV23,2_clean_ACS_PUMS.R,0,0
+doi:10.7910/DVN/OZGUH9,totals.R,3,0
+doi:10.7910/DVN/OFQUAN,S03-Turkey.R,0,0
+doi:10.7910/DVN/59NTIL,pejones_PB_MultiLevelModels.R,0,0
+doi:10.7910/DVN/59NTIL,prediction_MCMCglmm.R,0,0
+doi:10.7910/DVN/UDVEXN,bta_jop_DinD.R,3,0
+doi:10.7910/DVN/UDVEXN,bta_jop_descriptive_plots.R,3,0
+doi:10.7910/DVN/UDVEXN,bta_jop_marginal_effect_plots.R,3,0
+doi:10.7910/DVN/UDVEXN,bta_jop_precinct_data.R,4,0
+doi:10.7910/DVN/B4XDZP,Kosovo script.R,0,0
+doi:10.7910/DVN/IBK1LH,harbersingram20161228_basic.R,0,0
+doi:10.7910/DVN/STXADQ,replication_code.R,0,0
+doi:10.7910/DVN/0LRFKG,Antipetismo_Antipartidarismo_Script.R,2,0
+doi:10.7910/DVN/0UTWWV,PA_study1_2.R,3,0
+doi:10.7910/DVN/6UNLQM,read.nsduh.R,0,0
+doi:10.7910/DVN/6UNLQM,setwd.R,0,0
+doi:10.7910/DVN/6UNLQM,read.nats.R,5,0
+doi:10.7910/DVN/WKR2KV,Chilling_v08.R,0,0
+doi:10.7910/DVN/MYRDQC,Analyze_Survey_Data.R,0,0
+doi:10.7910/DVN/O6NMGE,paper_appendix_analysis.R,2,0
+doi:10.7910/DVN/UTRXT7,Ravanilla_Haim_Hicken_BSNRC_R_Replication.R,2,0
+doi:10.7910/DVN/WBI9RT,ModelVillageDistrictProvinceCovariates.R,0,0
+doi:10.7910/DVN/NHKKE2,Alas-2019-Figure-3-Script.R,4,0
+doi:10.7910/DVN/X0NJLX,3_Analyze_Data.R,0,0
+doi:10.7910/DVN/X0NJLX,2_Clean_Data.R,0,0
+doi:10.7910/DVN/X0NJLX,1_Construct_Data.R,0,0
+doi:10.7910/DVN/PZ6QBX,TableA1.R,0,0
+doi:10.7910/DVN/PZ6QBX,Table2.R,0,0
+doi:10.7910/DVN/PZ6QBX,Table1.R,0,0
+doi:10.7910/DVN/7XST1I,IMR-2-4-19_NoCutoff.R,5,0
+doi:10.7910/DVN/7XST1I,IMR-2-4-19.R,6,0
+doi:10.7910/DVN/QJEV1J,Rscript.R,0,0
+doi:10.7910/DVN/NHSJMJ,replication_backlash_ACDE_christian_immigrants.R,3,0
+doi:10.7910/DVN/NHSJMJ,replication_backlash_muslim_natives.R,3,0
+doi:10.7910/DVN/NHSJMJ,replication_backlash_ACDE_secular_muslims.R,3,0
+doi:10.7910/DVN/NHSJMJ,replication_backlash_devout_muslims.R,3,0
+doi:10.7910/DVN/NHSJMJ,replication_backlash_secular_muslims.R,3,0
+doi:10.7910/DVN/NHSJMJ,replication_backlash_secular_christians.R,3,0
+doi:10.7910/DVN/NHSJMJ,replication_backlash_ACDE_radical_christians.R,3,0
+doi:10.7910/DVN/NHSJMJ,replication_backlash_devout_christians.R,3,0
+doi:10.7910/DVN/NHSJMJ,replication_backlash_christian_natives.R,3,0
+doi:10.7910/DVN/NHSJMJ,replication_backlash_radical_muslims.R,3,0
+doi:10.7910/DVN/NHSJMJ,replication_backlash_ACDE_christian_natives.R,3,0
+doi:10.7910/DVN/NHSJMJ,replication_backlash_muslim_immigrants.R,3,0
+doi:10.7910/DVN/NHSJMJ,replication_backlash_ACDE_muslim_immigrants.R,3,0
+doi:10.7910/DVN/NHSJMJ,replication_backlash_radical_christians.R,3,0
+doi:10.7910/DVN/NHSJMJ,replication_backlash_ACDE_muslim_natives.R,3,0
+doi:10.7910/DVN/NHSJMJ,replication_backlash_ACDE_devout_christians.R,3,0
+doi:10.7910/DVN/NHSJMJ,replication_backlash_christian_immigrants.R,3,0
+doi:10.7910/DVN/ZCLECH,simulation_codes.R,0,0
+doi:10.7910/DVN/IKQU9P,process_fatal_shootings_Nation.R,6,0
+doi:10.7910/DVN/IKQU9P,process_comp_disadv_Nation.R,8,0
+doi:10.7910/DVN/XBNJD9,Table2.R,0,0
+doi:10.7910/DVN/LIJSWE,01-set-up-directory-structure.R,16,0
+doi:10.7910/DVN/POGK8L,SCRIPT-DISS.R,0,0
+doi:10.7910/DVN/AUX9W1,rsr_ehsi_3appendixAnalysis.R,0,0
+doi:10.7910/DVN/K27XYA,main.R,2,0
+doi:10.7910/DVN/Y8WPFR,rep_app_fig_s__1.R,0,0
+doi:10.7910/DVN/Y8WPFR,rep_app_tab_s_2-3.R,11,0
+doi:10.7910/DVN/Y8WPFR,rep_fig_2.R,0,0
+doi:10.7910/DVN/Y8WPFR,rep_app_fig_s__2.R,10,0
+doi:10.7910/DVN/Y8WPFR,rep_app_fig_s__3.R,10,0
+doi:10.7910/DVN/Y8WPFR,rep_app_tab_miss.R,0,0
+doi:10.7910/DVN/Y8WPFR,rep_app_tab_s_4-8.R,11,0
+doi:10.7910/DVN/Y8WPFR,rep_fig_5.R,11,0
+doi:10.7910/DVN/Y8WPFR,rep_fig_3.R,0,0
+doi:10.7910/DVN/Y8WPFR,rep_app_fig_s__6.R,0,0
+doi:10.7910/DVN/Y8WPFR,rep_fig_1.R,9,0
+doi:10.7910/DVN/Y8WPFR,rep_app_fig_s__5.R,12,0
+doi:10.7910/DVN/UZAI96,2.Simu-gcomp.R,0,0
+doi:10.7910/DVN/UZAI96,2.Simu-L0disc.R,0,0
+doi:10.7910/DVN/UZAI96,2.Simu.R,0,0
+doi:10.7910/DVN/UZAI96,2.Simu-L0cont.R,0,0
+doi:10.7910/DVN/UZAI96,2.Simu-logit.R,0,0
+doi:10.7910/DVN/FW7M6T,IMR-2-4-19_NoCutoff.R,5,0
+doi:10.7910/DVN/FW7M6T,IMR-2-4-19.R,6,0
+doi:10.7910/DVN/GITJQ4,Solar_Rep_Survey.R,5,0
+doi:10.7910/DVN/5HXT8K,replication_SM_04_TableA14FigA22.R,0,0
+doi:10.7910/DVN/5HXT8K,replication_03a_InvestigateBots_v1.R,0,0
+doi:10.7910/DVN/5HXT8K,replication_07_Table3FigA12.R,0,0
+doi:10.7910/DVN/5HXT8K,replication_SM_03_FigA16.R,0,0
+doi:10.7910/DVN/DSHYUJ,anonymisation.R,3,0
+doi:10.7910/DVN/O6HR6R,replication_latebudgets.R,0,0
+doi:10.7910/DVN/HJZSIM,estimate.R,0,0
+doi:10.7910/DVN/VGWY3L,2020-1-23-teacher-evaluations.r.Rout,0,0
+doi:10.7910/DVN/HCEPLX,(1)_imputation_oil_replication.R,3,0
+doi:10.7910/DVN/L8YEDW,Figure 3.R,0,0
+doi:10.7910/DVN/74H5ZJ,install_packages.R,0,0
+doi:10.7910/DVN/EWEB0W,c_my_targeting_policies.R,3,0
+doi:10.7910/DVN/3RNU1Q,ImmigrantReplication.R,2,0
+doi:10.7910/DVN/3RNU1Q,CommunityReplication.R,2,0
+doi:10.7910/DVN/3RNU1Q,Simulations.R,2,0
+doi:10.7910/DVN/F43LHM,states in custom house script.R,0,0
+doi:10.7910/DVN/EV5BGV,read_appeals.R,0,0
+doi:10.7910/DVN/FXKA3J,Tweet.R,0,0
+doi:10.7910/DVN/FVNIBH,Cleaning code.R,0,0
+doi:10.7910/DVN/7M6NIP,1_DataMerge.R,3,0
+doi:10.7910/DVN/0BFI9L,replication_code_dataverse.R,0,0
+doi:10.7910/DVN/EEHUME,04_gen_tuneout_indiv.R,0,0
+doi:10.7910/DVN/SKV8MC,4.1_cfa_search_by_edu_age.R,0,0
+doi:10.7910/DVN/HVGW8L,pnasKilnAnalysis.R,2,0
+doi:10.7910/DVN/U6EWUW,Estimate Twitter Ideology.R,0,0
+doi:10.7910/DVN/MS8XES,backtest_analysis.R,5,0
+doi:10.7910/DVN/1ESM5B,0.masterRun.R,0,0
+doi:10.7910/DVN/DNHS7F,control-list-design.R,2,0
+doi:10.7910/DVN/MM2VWC,03-sensitivity_analyses.R,2,0
+doi:10.7910/DVN/MM2VWC,02-main_tables_figures.R,2,0
+doi:10.7910/DVN/MM2VWC,05-ssi_fracking_figure.R,2,0
+doi:10.7910/DVN/MM2VWC,06-comscore_education_figure.R,2,0
+doi:10.7910/DVN/MM2VWC,04-ssi_isis_figure.R,2,0
+doi:10.7910/DVN/VZAKYC,stm_plot_functions.R,0,0
+doi:10.7910/DVN/VZAKYC,stm.R,0,0
+doi:10.7910/DVN/T1TELH,init.R,27,0
+doi:10.7910/DVN/MPQGZP,ph2-setup.R,4,0
+doi:10.7910/DVN/W1REJL,rtlmauc.R,0,0
+doi:10.7910/DVN/W1REJL,rtlmfolds.R,0,0
+doi:10.7910/DVN/FAU3VR,JAGS_each_PM.R,0,0
+doi:10.7910/DVN/FAU3VR,JAGS_main.R,0,0
+doi:10.7910/DVN/FAU3VR,JAGS_varying_effects.R,0,0
+doi:10.7910/DVN/FAU3VR,JAGS_AR1.R,0,0
+doi:10.7910/DVN/FAU3VR,JAGS_party.R,0,0
+doi:10.7910/DVN/FAU3VR,JAGS_two_types.R,0,0
+doi:10.7910/DVN/FAU3VR,JAGS_wo_kappa.R,0,0
+doi:10.7910/DVN/FAU3VR,JAGS_Koizumi.R,0,0
+doi:10.7910/DVN/FAU3VR,JAGS_inauguration.R,0,0
+doi:10.7910/DVN/FAU3VR,JAGS_self_selection.R,0,0
+doi:10.7910/DVN/FAU3VR,JAGS_wo_Kyodo.R,0,0
+doi:10.7910/DVN/FAU3VR,JAGS_AR2.R,0,0
+doi:10.7910/DVN/TVLHQX,Thesis_descriptive&regression.R,3,0
+doi:10.7910/DVN/IXUMGY,NunatfinalDictionaryText.R,0,0
+doi:10.7910/DVN/8HB1OZ,Study2.R,4,0
+doi:10.7910/DVN/8HB1OZ,Study1.R,5,0
+doi:10.7910/DVN/RM7VAL,power analysis.R,5,0
+doi:10.7910/DVN/MPBGXL,table_c1i.R,3,0
+doi:10.7910/DVN/MPBGXL,figure_c5ii.R,3,0
+doi:10.7910/DVN/MPBGXL,figure_b1i.R,3,0
+doi:10.7910/DVN/MPBGXL,figure_b2i.R,3,0
+doi:10.7910/DVN/PENDX4,Catalinac_16_Analysis_of_2009_Fig5&6Ppr.R,0,0
+doi:10.7910/DVN/PENDX4,Catalinac_5_Calculating_District-Level_Dispersion.R,0,0
+doi:10.7910/DVN/PENDX4,Catalinac_14_Abs_Dists_Pairs_of_LDP_Cands_Fig4Ppr.R,0,0
+doi:10.7910/DVN/PENDX4,Catalinac_1_preprocessing.R,0,0
+doi:10.7910/DVN/O7KM7E,bapvar-package.R,2,0
+doi:10.7910/DVN/BBDYUZ,Oblong models.R,0,0
+doi:10.7910/DVN/BBDYUZ,oblong2016a.R,0,0
+doi:10.7910/DVN/BRJAPZ,Mach.R,0,0
+doi:10.7910/DVN/BRJAPZ,Emp.R,0,0
+doi:10.7910/DVN/BRJAPZ,Syst.R,0,0
+doi:10.7910/DVN/BRJAPZ,Narc.R,0,0
+doi:10.7910/DVN/MPMIJU,Chapter2Master.R,0,0
+doi:10.7910/DVN/MZUOWG,tmyk_replicationcode2.R,0,0
+doi:10.7910/DVN/7TRL0I,FlynnKrupnikov_replication code_R output.R,0,0
+doi:10.7910/DVN/96AJMC,CreateVars150407.R,3,0
+doi:10.7910/DVN/FGNBHX,TTestsRScript.R,4,0
+doi:10.7910/DVN/FGNBHX,outlier_graph.R,3,0
+doi:10.7910/DVN/0DE35E,JEPSreplication.R,0,0
+doi:10.7910/DVN/XYKL6L,3__Empirical Application_6.R,2,0
+doi:10.7910/DVN/9JLCSY,0-Readme.R,0,0
+doi:10.7910/DVN/41MFVV,script.R,2,0
+doi:10.7910/DVN/OWMI64,Baker_exploration.R,0,0
+doi:10.7910/DVN/VNHM17,datascramble.R,0,0
+doi:10.7910/DVN/T17S0X,implicit_trust_SSI_replication.R,0,0
+doi:10.7910/DVN/4MTMXW,figure2.R,3,0
+doi:10.7910/DVN/4MTMXW,s1_analysis.R,3,0
+doi:10.7910/DVN/4MTMXW,table1.R,3,0
+doi:10.7910/DVN/38PV7N,suppl_1.R,2,0
+doi:10.7910/DVN/38PV7N,suppl_2.R,2,0
+doi:10.7910/DVN/FODCXX,figure1.R,6,0
+doi:10.7910/DVN/TBKLWV,UI_SM.R,2,0
+doi:10.7910/DVN/8YCKWA,Covid_PID_RAP_Rdofile.R,4,0
+doi:10.7910/DVN/RPZLMY,table_1.R,0,0
+doi:10.7910/DVN/ATXZEO,JPR_coupproof_main.R,0,0
+doi:10.7910/DVN/UHIFDK,Marwick-2013-JAA-code.R,0,0
+doi:10.7910/DVN/XE9XCZ,Emp_ex.R,0,0
+doi:10.7910/DVN/W3S5OH,Chapter 6-Multilevel Explanatory Analysis (R-Script).R,0,0
+doi:10.7910/DVN/AJYEDA,appendix_tables.R,0,0
+doi:10.7910/DVN/KMZQVU,UnsupervisedLDA_FV.R,2,0
+doi:10.7910/DVN/IXSGIX,JAGS_model_1.R,0,0
+doi:10.7910/DVN/IXSGIX,JAGS_model_2.R,0,0
+doi:10.7910/DVN/6MRVOM,analysis.R,0,0
+doi:10.7910/DVN/TFXHAB,2018ANESReplicationCode.R,4,0
+doi:10.7910/DVN/TFXHAB,2020ANESReplicationCode.R,4,0
+doi:10.7910/DVN/B1HHGV,AppendixTablesFigures.R,3,0
+doi:10.7910/DVN/PG5FA9,CWTS additional output.R,2,0
+doi:10.7910/DVN/4XQUKB,Appendix_Matching.R,0,0
+doi:10.7910/DVN/FRPRDP,20190624 replication code.R,0,0
+doi:10.7910/DVN/XT3RZ8,Prediction R code.R,0,0
+doi:10.7910/DVN/XT3RZ8,Prediction R code_UNRB.R,0,0
+doi:10.7910/DVN/4KLEOU,solar_replication.R,6,0
+doi:10.7910/DVN/SIPXCZ,clean.R,5,0
+doi:10.7910/DVN/0YUSTJ,03-replicate figures.R,3,0
+doi:10.7910/DVN/ZBRTJH,Figure2.R.7z,0,0
+doi:10.7910/DVN/KGIBK5,Prediction5AJPS.R,0,0
+doi:10.7910/DVN/KGIBK5,Prediction1AJPS.R,0,0
+doi:10.7910/DVN/KGIBK5,ModelPrediction1JAGS.R,0,0
+doi:10.7910/DVN/KGIBK5,ModelPrediction5JAGS.R,0,0
+doi:10.7910/DVN/QRWFKX,OutcomesData.9-20-15.R&R.dta,0,0
+doi:10.7910/DVN/FUFDYH,17_st_amelia_multipleimputations.R,5,0
+doi:10.7910/DVN/EDGRDC,Estimation.R,0,0
+doi:10.7910/DVN/LHOTOK,Elite-Public Replication 3.R,4,0
+doi:10.7910/DVN/ITKNX5,replication_Badrinathan_APSR.R,5,0
+doi:10.7910/DVN/S5YMS7,"Figure 2, 3, Table SI1.R",0,0
+doi:10.7910/DVN/S5YMS7,"Table 3, Figure SI18.R",0,0
+doi:10.7910/DVN/8TP2S7,Code_explanation_libraries_PC.R,0,0
+doi:10.7910/DVN/W14GCV,table_oa7.R,19,0
+doi:10.7910/DVN/UN54HD,ziop_ziopc.R,0,0
+doi:10.7910/DVN/GDVTGD,networkspreaditerv8_Tables.R,0,0
+doi:10.7910/DVN/ADOPTC,study1.R,8,0
+doi:10.7910/DVN/ADOPTC,study2.R,11,0
+doi:10.7910/DVN/ITVLIK,Code.R,2,0
+doi:10.7910/DVN/TLBTYD,05_Make tables of subset models.R,3,0
+doi:10.7910/DVN/97EDVS,supplementals.R,2,0
+doi:10.7910/DVN/97EDVS,main.R,2,0
+doi:10.7910/DVN/BM8N4C,mov_detrend_predict_o3.R,0,0
+doi:10.7910/DVN/BM8N4C,Figure 1.R,0,0
+doi:10.7910/DVN/BM8N4C,AMIP_East-T_SST.R,0,0
+doi:10.7910/DVN/BM8N4C,Figure 5.R,0,0
+doi:10.7910/DVN/BM8N4C,Figure 2.R,0,0
+doi:10.7910/DVN/BM8N4C,Figure 4.R,0,0
+doi:10.7910/DVN/BM8N4C,Henderson_predict_O3.R,0,0
+doi:10.7910/DVN/BM8N4C,Figure 3.R,0,0
+doi:10.7910/DVN/4EK4KX,Covid_regressions.R,3,0
+doi:10.7910/DVN/HMZWLK,analyse_pflicht.R,6,0
+doi:10.7910/DVN/JU4MLE,02 Code_Ganaderia.R,0,0
+doi:10.7910/DVN/O0MBCX,R transcript Figure 1 and 2.R,0,0
+doi:10.7910/DVN/FYXNIM,Replication code for The Politics of Creditworthiness.R,3,0
+doi:10.7910/DVN/TRLSJA,04_Select1000Images.R,0,0
+doi:10.7910/DVN/TRLSJA,03_RegressionModels.R,0,0
+doi:10.7910/DVN/TRLSJA,02_MakeTable1_SMCorrelationTables.R,0,0
+doi:10.7910/DVN/TRLSJA,01_MergeDatasets.R,0,0
+doi:10.7910/DVN/TRLSJA,07_InvestigateACLEDSizes.R,0,0
+doi:10.7910/DVN/TRLSJA,06_InvestigateOverlap.R,0,0
+doi:10.7910/DVN/TRLSJA,08_FigureA1.R,0,0
+doi:10.7910/DVN/TRLSJA,05_InvestigateFaceDuplication.R,0,0
+doi:10.7910/DVN/OFPUAD,s1_figure_2.R,11,0
+doi:10.7910/DVN/OFPUAD,s1_figure_5.R,0,0
+doi:10.7910/DVN/OFPUAD,s1_figure_3.R,0,0
+doi:10.7910/DVN/OFPUAD,s1_figure_4.R,0,0
+doi:10.7910/DVN/DL4JY8,Experiment.R,0,0
+doi:10.7910/DVN/5T4NUN,Methods+Results.R,3,0
+doi:10.7910/DVN/9M6EHS,Off_farm_gender.R,3,0
+doi:10.7910/DVN/9M6EHS,Setting_Universal_Units.R,0,0
+doi:10.7910/DVN/2BUYQV,figure 1.R,0,0
+doi:10.7910/DVN/1WZRY2,replicate_results.R,2,0
+doi:10.7910/DVN/2IVDGK,run.R,3,0
+doi:10.7910/DVN/KVJMEZ,MTurkAnalysis.R,11,0
+doi:10.7910/DVN/2RORMS,explore_spillovers_public.R,0,0
+doi:10.7910/DVN/9IK577,HmcRun_LassoPreliminary.R,2,0
+doi:10.7910/DVN/9IK577,HmcRun_CorrNormal.R,2,0
+doi:10.7910/DVN/9IK577,HmcRun_t_Scaled.R,2,0
+doi:10.7910/DVN/9IK577,HmcRun_StandardNormal.R,2,0
+doi:10.7910/DVN/9IK577,HmcRun_Lasso.R,2,0
+doi:10.7910/DVN/9IK577,HmcRun_NormalMixture.R,2,0
+doi:10.7910/DVN/9IK577,HmcRun_t_NotScaled.R,2,0
+doi:10.7910/DVN/HAKD7W,Create_shor_az.R,2,0
+doi:10.7910/DVN/HAKD7W,CreateValence.R,2,0
+doi:10.7910/DVN/HAKD7W,RunAnalyses.R,2,0
+doi:10.7910/DVN/HAKD7W,Create_can_fe.R,2,0
+doi:10.7910/DVN/HAKD7W,MatchBonicaNPATScores.R,2,0
+doi:10.7910/DVN/EHVYNN,Estimation.R,0,0
+doi:10.7910/DVN/R99Y4S,clusterwild.glm.R,2,0
+doi:10.7910/DVN/R99Y4S,clusterBS.plm.R,2,0
+doi:10.7910/DVN/R99Y4S,clusterwild.plm.R,2,0
+doi:10.7910/DVN/R99Y4S,clusterwild.ivreg.R,2,0
+doi:10.7910/DVN/R99Y4S,clusterIM.mlogit.R,2,0
+doi:10.7910/DVN/R99Y4S,clusterBS.mlogit.R,2,0
+doi:10.7910/DVN/EK4UTV,miscellaneous_calculations.R,3,0
+doi:10.7910/DVN/EK4UTV,prest_2021_main.R,2,0
+doi:10.7910/DVN/EK4UTV,project_well_level_production.R,0,0
+doi:10.7910/DVN/10QJZV,Main Results.R,2,0
+doi:10.7910/DVN/10QJZV,Appendix C - Mobilization Onset Robustness.R,2,0
+doi:10.7910/DVN/10QJZV,Appendix C - Civil War Onset Robustness.R,2,0
+doi:10.7910/DVN/DOP4UB,balance_check.R,3,0
+doi:10.7910/DVN/DOP4UB,primetest.R,3,0
+doi:10.7910/DVN/EHWM14,MunicipalAnalysis.R,0,0
+doi:10.7910/DVN/GLT4FX,run_hbg_replication.R,0,0
+doi:10.7910/DVN/R7HWGE,correlation_output_raw.R,0,0
+doi:10.7910/DVN/R7HWGE,correlation_output_differences.R,0,0
+doi:10.7910/DVN/R7HWGE,cross_correlation_output.R,0,0
+doi:10.7910/DVN/R7HWGE,partial_correlation_output.R,0,0
+doi:10.7910/DVN/R7HWGE,changepoint_output.R,0,0
+doi:10.7910/DVN/98U1OP,RScript.R,2,0
+doi:10.7910/DVN/M5QYVV,combine_results_and_make_ensemble.R,0,0
+doi:10.7910/DVN/A4A3UO,generator.R.zip,0,0
+doi:10.7910/DVN/A4A3UO,estimator.R.zip,0,0
+doi:10.7910/DVN/OVRHOG,randomgraphs20180216v3.R,0,0
+doi:10.7910/DVN/T5DKRO,g_Regressions and Code for Fig 4.R,0,0
+doi:10.7910/DVN/T5DKRO,f_Regressions and Code for Fig 3.R,0,0
+doi:10.7910/DVN/T5DKRO,e_Regressions and Code for Fig 2.R,0,0
+doi:10.7910/DVN/5D4UAY,R_replication_maps_final.R,0,0
+doi:10.7910/DVN/RO1YK7,Figure_3.R,0,0
+doi:10.7910/DVN/EMTSV8,2016-4-3_figure-construction.r.Rout,0,0
+doi:10.7910/DVN/QKGBSE,20180226b_rethinking_map.R,0,0
+doi:10.7910/DVN/QKGBSE,20180226_rethinking_map.R,0,0
+doi:10.7910/DVN/QKGBSE,rethinking_map.R,0,0
+doi:10.7910/DVN/TCYTEO,limpeza_codificacao.R,0,0
+doi:10.7910/DVN/TCYTEO,teste_hipotese.R,0,0
+doi:10.7910/DVN/8ANBSY,Tolerancia_Protesto_Completo.R,2,0
+doi:10.7910/DVN/U4NUKT,Hebrew_stemming.R,0,0
+doi:10.7910/DVN/RTB1IG,BoomRCode.R,0,0
+doi:10.7910/DVN/24CXA7,Line Graph_Overall.R,0,0
+doi:10.7910/DVN/EEUTHP,sharia.R,0,0
+doi:10.7910/DVN/RDJGRY,Annex5_Confidence.R,2,0
+doi:10.7910/DVN/RDJGRY,Annex3_Variation_Convergence.R,2,0
+doi:10.7910/DVN/RDJGRY,confidence in estimates by wave and type of flow.R,2,0
+doi:10.7910/DVN/RDJGRY,table1_samples.R,2,0
+doi:10.7910/DVN/RDJGRY,Annex6_Convergence.R,2,0
+doi:10.7910/DVN/RDJGRY,coefficient of variation.R,2,0
+doi:10.7910/DVN/RDJGRY,Annex4.R,2,0
+doi:10.7910/DVN/RDJGRY,fig4_Changes_Immigration.R,2,0
+doi:10.7910/DVN/LBAV1Q,03_Variables.R,3,0
+doi:10.7910/DVN/LBAV1Q,00_Packages.R,24,0
+doi:10.7910/DVN/LBAV1Q,02_Datasets.R,3,0
+doi:10.7910/DVN/JTQTGQ,hipotese_aversao_derrota.R,0,0
+doi:10.7910/DVN/LAMRQJ,run_scc_calcs.R,3,0
+doi:10.7910/DVN/LAMRQJ,main.R,2,0
+doi:10.7910/DVN/PGQY2F,4.1_demo_apicalls.R,4,0
+doi:10.7910/DVN/DO43V5,RDD_ReplicationCode.R,0,0
+doi:10.7910/DVN/W8PXZC,03_robustness.R,0,0
+doi:10.7910/DVN/W8PXZC,01_data wrangling.R,0,0
+doi:10.7910/DVN/DJR0YC,analysis_heterogeneity.R,0,0
+doi:10.7910/DVN/SBUFNN,Figure_1_replication.R,0,0
+doi:10.7910/DVN/UJE5AS,stacking MTurk and ANES.R,3,0
+doi:10.7910/DVN/ZBLXPR,06_graph_glm_presentation.R,2,0
+doi:10.7910/DVN/ZBLXPR,04c_graph_presentation.R,2,0
+doi:10.7910/DVN/8XSAZD,appendix B.R,3,0
+doi:10.7910/DVN/8XSAZD,appendix E.R,3,0
+doi:10.7910/DVN/BKI1X3,table_e6.R,0,0
+doi:10.7910/DVN/BKI1X3,table_e7.R,0,0
+doi:10.7910/DVN/BKI1X3,table_1.R,0,0
+doi:10.7910/DVN/BKI1X3,table_e5.R,0,0
+doi:10.7910/DVN/BKI1X3,main.R,0,0
+doi:10.7910/DVN/BKI1X3,table_e4.R,0,0
+doi:10.7910/DVN/SJI4IA,1.ValueParticipation.R,0,0
+doi:10.7910/DVN/SJI4IA,2.SocialIncentivesSurvey.R,0,0
+doi:10.7910/DVN/VTA5OA,paper.R,0,0
+doi:10.7910/DVN/TKORD8,summarize_individual_partychanges.R,0,0
+doi:10.7910/DVN/96C154,AnalyzingResultsCountyByCountyInR.R,0,0
+doi:10.7910/DVN/G0HJLV,4_GouldUrpelainenDescriptiveMaps.R,3,0
+doi:10.7910/DVN/UUPZ6Z,Peer Weights Day_ReSTAT.R,4,0
+doi:10.7910/DVN/VEXPZG,graph_leave_out.R,0,0
+doi:10.7910/DVN/J9BOHR,2-plots.R,3,0
+doi:10.7910/DVN/J9BOHR,0-start.R,2,0
+doi:10.7910/DVN/YTRCQE,WhoGov_replication.R,2,0
+doi:10.7910/DVN/TRIEF2,supp.R,0,0
+doi:10.7910/DVN/TRIEF2,main.R,0,0
+doi:10.7910/DVN/LRSICH,Chapter7Master.R,0,0
+doi:10.7910/DVN/3AA5CQ,2014 Thesis Analysis.R,0,0
+doi:10.7910/DVN/3AA5CQ,2004 Thesis Analysis.R,0,0
+doi:10.7910/DVN/BZN2QC,Data_processing.R,0,0
+doi:10.7910/DVN/ERX5D1,Final_Thesis.R,0,0
+doi:10.7910/DVN/EL3KYD,factor_analysis_JAGS_preliminary.R,0,0
+doi:10.7910/DVN/EL3KYD,factor_analysis_JAGS.R,0,0
+doi:10.7910/DVN/WCK08T,vbm_ctk_djv.R,0,0
+doi:10.7910/DVN/2A8NT6,Figure_3.R,0,0
+doi:10.7910/DVN/JYVGLU,3-models-spem.R,0,0
+doi:10.7910/DVN/SRHAJN,Linear_regression_models.R,3,0
+doi:10.7910/DVN/OJXCD4,Main Simulations.R,12,0
+doi:10.7910/DVN/NFXS5Z,log_supplementary_materials.R,0,0
+doi:10.7910/DVN/NFXS5Z,log_main_analyses.R,0,0
+doi:10.7910/DVN/YFQE9W,epperly_etal_lynching_perspectives_appendix_replication_file.R,0,0
+doi:10.7910/DVN/KJV6OJ,census_analysis1.R,0,0
+doi:10.7910/DVN/FV9AVG,Analysis-Pew.R,0,0
+doi:10.7910/DVN/CNQUN3,CER_Elec_Analysis.R,2,0
+doi:10.7910/DVN/CNQUN3,CER_Elec_Analysis_Appendix.R,2,0
+doi:10.7910/DVN/F6LJP8,geo_regressions_master_iterative.R,3,0
+doi:10.7910/DVN/F6LJP8,EnosGidronReplication.R,2,0
+doi:10.7910/DVN/F6LJP8,geo_variation_test.R,3,0
+doi:10.7910/DVN/F6LJP8,basic_distributions.R,3,0
+doi:10.7910/DVN/F6LJP8,function_call.R,2,0
+doi:10.7910/DVN/TNI7DY,bootstrap_CI_sat.R,0,0
+doi:10.7910/DVN/TNI7DY,ldatuning_plot.R,6,0
+doi:10.7910/DVN/CJXKTI,Chapter 5-Principal Components Analysis (R Script).R,0,0
+doi:10.7910/DVN/V8U06V,ReplicationScript_JulieAnneWeaver_ElectoralDisconnection_MainText.R,3,0
+doi:10.7910/DVN/EAYHSN,data-prep.R,2,0
+doi:10.7910/DVN/SWTEAN,table1.R,4,0
+doi:10.7910/DVN/TMDHDH,01_code_outcomes_hh_midline.R,3,0
+doi:10.7910/DVN/TMDHDH,01_code_variables_vht_midline.R,3,0
+doi:10.7910/DVN/TMDHDH,01_clean_lab_data.R,3,0
+doi:10.7910/DVN/TMDHDH,04_build_indices_lab.R,3,0
+doi:10.7910/DVN/TMDHDH,01_code_outcomes_hh_endline.R,3,0
+doi:10.7910/DVN/TMDHDH,conative_attitudes_lasso.R,3,0
+doi:10.7910/DVN/TMDHDH,01_code_outcomes_vht_endline.R,3,0
+doi:10.7910/DVN/TMDHDH,01_code_outcomes_lab.R,3,0
+doi:10.7910/DVN/TMDHDH,01_code_covariates_vht_endline.R,3,0
+doi:10.7910/DVN/1EMHTK,deidentify_data.R,0,0
+doi:10.7910/DVN/05BSPP,InitialAnalysis.R,0,0
+doi:10.7910/DVN/GNCDZR,BlumParker_ANES_Figures.R,0,0
+doi:10.7910/DVN/RYUUB9,honestDiD.R,0,0
+doi:10.7910/DVN/YBKP8C,Defending the Dog Whistle -- appendix code CLEAN.R,0,0
+doi:10.7910/DVN/6AL5YC,Crisis_measurement.R,0,0
+doi:10.7910/DVN/U0RGGY,JCMC_aggregated_file_PL_final.R,0,0
+doi:10.7910/DVN/4U6TQA,italycorrection.R,3,0
+doi:10.7910/DVN/UBRRHG,WEMWBS SLO.R,0,0
+doi:10.7910/DVN/2V2LGK,beliefs_regression1.R,3,0
+doi:10.7910/DVN/KH6MOI,JTPV testing.R,0,0
+doi:10.7910/DVN/86YEER,Model_specifications.R,0,0
+doi:10.7910/DVN/LMDUEQ,SI_table2.R,3,0
+doi:10.7910/DVN/LMDUEQ,SI_table3.R,3,0
+doi:10.7910/DVN/LMDUEQ,figure2.R,3,0
+doi:10.7910/DVN/MMMTYZ,SupDataDR4E.R,6,0
+doi:10.7910/DVN/PMURRC,Fig2.R,3,0
+doi:10.7910/DVN/W8HUKY,03_gko_main_analysis_robustness.R,0,0
+doi:10.7910/DVN/14RSGX,Appendix_PanelReg_Plotting.R,0,0
+doi:10.7910/DVN/14RSGX,Figures5-6_StateLegRD.R,0,0
+doi:10.7910/DVN/NP8SDI,Sendai_crosstabs.R,4,0
+doi:10.7910/DVN/JXXNDO,Bus_Reg_conv.R,0,0
+doi:10.7910/DVN/P7RVGF,DarrHittDunaway_Replication_Information.R,6,0
+doi:10.7910/DVN/H6RZA7,Replication_IS.R,0,0
+doi:10.7910/DVN/HRLHA4,harbersingram20161228_basic.R,0,0
+doi:10.7910/DVN/VWPPVQ,Bargaining Delay Replication.R,0,0
+doi:10.7910/DVN/GEC2LS,00_a_README.R,0,0
+doi:10.7910/DVN/0O1GW1,01_ensemble_modelling.R,0,0
+doi:10.7910/DVN/IJKAUR,water_energy_replication_code.R,0,0
+doi:10.7910/DVN/X7NKSL,Effects_of_Polls_H2.R,3,0
+doi:10.7910/DVN/X7NKSL,Effects_of_Polls_H1.R,3,0
+doi:10.7910/DVN/YVVKCH,main-analysis.R.txt,0,0
+doi:10.7910/DVN/DSIY7B,party_analysis_20210430.R,0,0
+doi:10.7910/DVN/HLKZJQ,appendix.R,12,0
+doi:10.7910/DVN/HLKZJQ,main_analysis.R,9,0
+doi:10.7910/DVN/WHUEZA,analysis.R,0,0
+doi:10.7910/DVN/RGZWNJ,RunAnalysis.R,2,0
+doi:10.7910/DVN/ALFLK6,2_Irishbudgets.R,8,0
+doi:10.7910/DVN/ALFLK6,5.3_ParlSpeech_Models_Graphs.R,16,0
+doi:10.7910/DVN/ALFLK6,3.8_Wordscores_positions_plots.R,6,0
+doi:10.7910/DVN/ALFLK6,5.1_ParlSpeech_Datasets.R,9,0
+doi:10.7910/DVN/ALFLK6,3.6_Wordscores_estimate_models_ML.R,5,0
+doi:10.7910/DVN/ALFLK6,3.7_Wordscores_tables_and_coefplots.R,5,0
+doi:10.7910/DVN/ALFLK6,3.5_Wordscores_data_for_model_estimation.R,5,0
+doi:10.7910/DVN/ALFLK6,3.4_Wordscores_master_data.R,8,0
+doi:10.7910/DVN/ALFLK6,3.2_Wordscores_generate_sentiment.R,5,0
+doi:10.7910/DVN/ALFLK6,3.1_Wordscores_generate_positions.R,5,0
+doi:10.7910/DVN/ALFLK6,3.3_Wordscores_combine.R,5,0
+doi:10.7910/DVN/ALFLK6,5.2_ParlSpeech_Sentiment.R,8,0
+doi:10.7910/DVN/5DYMJL,expand-mercosur.R,0,0
+doi:10.7910/DVN/JIYDQT,0ambulance-hospital-measures-v3.0-RESTAT-revision.R,2,0
+doi:10.7910/DVN/NGTWWJ,Figure5.R,0,0
+doi:10.7910/DVN/LXGPH6,final_data_rep_v5.R,0,0
+doi:10.7910/DVN/FUYKAG,daily_sim.R,2,0
+doi:10.7910/DVN/FUYKAG,daily_main.R,2,0
+doi:10.7910/DVN/UPMOHW,00.ReadMe.R,0,0
+doi:10.7910/DVN/LLRLQB,SCRIPT - BILL CHANGE DATASET - REVISED.R,0,0
+doi:10.7910/DVN/KOM12J,Factor Analysis with MCMC.R,0,0
+doi:10.7910/DVN/KOM12J,make scatterplot SCRIPT.R,0,0
+doi:10.7910/DVN/80WUQB,irt_2pl_dif.R,0,0
+doi:10.7910/DVN/80WUQB,irt_2pl.R,0,0
+doi:10.7910/DVN/80WUQB,irt_guess.R,0,0
+doi:10.7910/DVN/80WUQB,irt_guess_dif.R,0,0
+doi:10.7910/DVN/80WUQB,irt_3pl_dif.R,0,0
+doi:10.7910/DVN/80WUQB,irt_3pl.R,0,0
+doi:10.7910/DVN/ZH5YFY,make_final_graphs.R,0,0
+doi:10.7910/DVN/LJMNV9,create_fig_SI-13.R,0,0
+doi:10.7910/DVN/TJ1ZXX,build_study1.R,0,0
+doi:10.7910/DVN/NX5QIU,polgeoviol2_main_20190321.R,0,0
+doi:10.7910/DVN/GVZ4LO,Recruitment_Script.R,0,0
+doi:10.7910/DVN/ZVD8KC,ABA Judicial Rscript.R,0,0
+doi:10.7910/DVN/ZEHO8E,figure4.R,3,0
+doi:10.7910/DVN/ZEHO8E,study_results.R,3,0
+doi:10.7910/DVN/ZEHO8E,appendix_correlates.R,3,0
+doi:10.7910/DVN/ZEHO8E,table1.R,3,0
+doi:10.7910/DVN/ZEHO8E,preprocess5.R,3,0
+doi:10.7910/DVN/B9URKD,1_factbook_avaaz_gh_fig_2.R,9,0
+doi:10.7910/DVN/B9URKD,9_factbook_avaaz_gh_reg_tab_5_educ.R,9,0
+doi:10.7910/DVN/B9URKD,6_factbook_avaaz_gh_fig_6.R,9,0
+doi:10.7910/DVN/B9URKD,14_factbook_avaaz_gh_reg_tab_10_pid3.R,9,0
+doi:10.7910/DVN/B9URKD,8_factbook_avaaz_gh_reg_tab_4_newsint.R,9,0
+doi:10.7910/DVN/B9URKD,10_factbook_avaaz_gh_reg_tab_6_generation.R,9,0
+doi:10.7910/DVN/B9URKD,15_factbook_avaaz_gh_cohen_effect_sizes_tab_11.R,9,0
+doi:10.7910/DVN/B9URKD,12_factbook_avaaz_gh_reg_tab_8_church_attd.R,9,0
+doi:10.7910/DVN/B9URKD,7_factbook_avaaz_gh_reg_tab_3_ideo.R,9,0
+doi:10.7910/DVN/B9URKD,11_factbook_avaaz_gh_reg_tab_7_income.R,9,0
+doi:10.7910/DVN/B9URKD,13_factbook_avaaz_gh_reg_tab_9_pres_vote.R,9,0
+doi:10.7910/DVN/B9URKD,5_factbook_avaaz_gh_fig_5.R,10,0
+doi:10.7910/DVN/B9URKD,2_factbook_avaaz_gh_fig_3.R,9,0
+doi:10.7910/DVN/B9URKD,4_factbook_avaaz_gh_reg_tab_2.R,7,0
+doi:10.7910/DVN/B9URKD,3_factbook_avaaz_gh_reg_tab_1.R,7,0
+doi:10.7910/DVN/ORAQZP,ActingChap7_Analysis.R,5,0
+doi:10.7910/DVN/ORAQZP,ActingChap7_Visuals.R,4,0
+doi:10.7910/DVN/ORAQZP,ActingChap7_processing.R,4,0
+doi:10.7910/DVN/Q86FEQ,readme2_causal_battery_master.R,3,0
+doi:10.7910/DVN/XNOARV,2_user_domain_feb2018.R,0,0
+doi:10.7910/DVN/ZJTWVY,1 - Regression of continents.R,0,0
+doi:10.7910/DVN/SUKHMB,1_downloading_data.R,0,0
+doi:10.7910/DVN/N0ITTI,code.R,0,0
+doi:10.7910/DVN/PRAQI2,Mattingly_Chen_Variable_Creation.R,3,0
+doi:10.7910/DVN/KF1LAK,experimental_plot.R,0,0
+doi:10.7910/DVN/GXKL22,f3_5-PathDependency.R,0,0
+doi:10.7910/DVN/CLW4NU,figures.R,6,0
+doi:10.7910/DVN/CLW4NU,generating_data.R,6,0
+doi:10.7910/DVN/YLVI5Z,figure2_RcodeALTERNATE.R,0,0
+doi:10.7910/DVN/YLVI5Z,figureS2_Rcode.R,0,0
+doi:10.7910/DVN/MQVUUD,Contact or Context Replication Code_Appendix.R,3,0
+doi:10.7910/DVN/7Q9ZSR,01_set_working_directory.R,0,0
+doi:10.7910/DVN/Y10EQV,00_package_install.R,2,0
+doi:10.7910/DVN/O6L4UX,autocratic_rule_replication.R,0,0
+doi:10.7910/DVN/IQNCHD,MA_Rcode_v3_replication.R,0,0
+doi:10.7910/DVN/M5SDCH,load_packages.R,18,0
+doi:10.7910/DVN/X5FLRX,Figures.R,6,0
+doi:10.7910/DVN/0XEUCP,appendix.R,7,0
+doi:10.7910/DVN/D8S4UY,victor-tavares-ad-ufpe-2019.R,0,0
+doi:10.7910/DVN/D5WS0Y,exp1_results.R,0,0
+doi:10.7910/DVN/D5WS0Y,exp3_2_resuts.R,0,0
+doi:10.7910/DVN/0HCREG,00a_filter_and_harmonise_lr_surveys.R,0,0
+doi:10.7910/DVN/OJWRWM,classification.R,0,0
+doi:10.7910/DVN/CXSECU,install_requirements.R,0,0
+doi:10.7910/DVN/RSNAJK,predator_injury_coho_totalsize.R,3,0
+doi:10.7910/DVN/RSNAJK,predator_injury_chum_final.R,3,0
+doi:10.7910/DVN/RSNAJK,predator_injury_chum_totalsize.R,3,0
+doi:10.7910/DVN/RSNAJK,predator_injury_pink_totalsize.R,3,0
+doi:10.7910/DVN/RSNAJK,sockeye_rs_raw.R,3,0
+doi:10.7910/DVN/RSNAJK,predator_injury_sockeye_final.R,3,0
+doi:10.7910/DVN/RSNAJK,predator_injury_coho_final.R,3,0
+doi:10.7910/DVN/RSNAJK,predator_injury_sockeye_totalsize.R,3,0
+doi:10.7910/DVN/RSNAJK,predator_injury_pink_final.R,3,0
+doi:10.7910/DVN/RSNAJK,chum_rs_raw.R,3,0
+doi:10.7910/DVN/QHCTDX,Code_ENDIREH2003_setupDta.R,0,0
+doi:10.7910/DVN/4YU9LJ,pc_uk_robustness.R,3,0
+doi:10.7910/DVN/4YU9LJ,pc_uk_sem.R,4,0
+doi:10.7910/DVN/4YU9LJ,pc_uk_analysis.R,3,0
+doi:10.7910/DVN/4YU9LJ,pc_uk_factoranalysis.R,3,0
